@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://localhost:8080/RPCbankingproject/rpcwebservice?wsdl" uri="src/conf/xml-resources/web-service-references/rpcwebservice_2/wsdl/localhost_8080/RPCbankingproject/rpcwebservice.wsdl"/>
+    <system systemId="http://localhost:8080/RPCbankingproject/rpcwebservice?xsd=1" uri="src/conf/xml-resources/web-service-references/rpcwebservice_2/wsdl/localhost_8080/RPCbankingproject/rpcwebservice.xsd_1.xsd"/>
+    <system systemId="http://localhost:8080/newbanking/newbankinh?wsdl" uri="src/conf/xml-resources/web-service-references/newbankinh_1/wsdl/localhost_8080/newbanking/newbankinh.wsdl"/>
+    <system systemId="http://localhost:8080/newbanking/newbankinh?xsd=1" uri="src/conf/xml-resources/web-service-references/newbankinh_1/wsdl/localhost_8080/newbanking/newbankinh.xsd_1.xsd"/>
+    <system systemId="http://localhost:8080/thealekeweb/thealekeweb?wsdl" uri="src/conf/xml-resources/web-service-references/thealekeweb/wsdl/localhost_8080/thealekeweb/thealekeweb.wsdl"/>
+    <system systemId="http://localhost:8080/thealekeweb/thealekeweb?xsd=1" uri="src/conf/xml-resources/web-service-references/thealekeweb/wsdl/localhost_8080/thealekeweb/thealekeweb.xsd_1.xsd"/>
+</catalog>
